@@ -917,3 +917,8 @@ footer .copywrite {
     }
 
 }
+@media screen and (max-width:350){
+.services .container{
+ margin-right:30px
+}
+}
